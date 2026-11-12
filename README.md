@@ -1,3 +1,5 @@
+NOTE: The writing of this README file was AI-assisted. 
+
 # Casino Campaign Intelligence
 
 An end-to-end data engineering and analytics project that evaluates
@@ -6,6 +8,9 @@ the records; builds an assignment-grain analytical fact table; estimates
 incremental campaign value using randomized offer and holdout groups;
 stores the results in DuckDB; and presents findings in a Streamlit
 dashboard.
+
+## Link to interactive Streamlit app <a href="https://casino-campaign-intelligence.streamlit.app">here!</a>
+
 
 ## Project at a glance
 
